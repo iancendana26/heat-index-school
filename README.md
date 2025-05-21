@@ -44,8 +44,8 @@ gunicorn -w 4 app:app
 ## Environment Variables
 Create a `.env` file in the project root with the following:
 ```
-FLASK_SECRET_KEY=your-secret-key
-OPENWEATHER_API_KEY=your-openweathermap-api-key
+FLASK_SECRET_KEY=Qw8k2n3Jv9pLz1xYb4t6s7u8v0wXyZ1aBcDeFgHiJkLmNoPqR
+OPENWEATHER_API_KEY=d1542137fbfe94bbd3a9976980fab460
 ```
 
 ## Models
